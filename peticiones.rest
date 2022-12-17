@@ -2,7 +2,7 @@
 // PARQUES
 
 // Dame todos los parques
-GET https://api-theme-park.onrender.com/api/parks
+GET http://localhost:3000/api/parks
 
 ###
 
