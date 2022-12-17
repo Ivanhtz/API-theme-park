@@ -1,0 +1,19 @@
+
+// PARQUES
+
+// Dame todos los parques
+GET http://localhost:3000/api/parks
+
+###
+
+// CASAS
+
+// Dame todas las casas
+GET http://localhost:3000/api/houses
+
+###
+
+// MONTAÑAS
+
+// Dame todas las montañas
+GET http://localhost:3000/api/rollers
