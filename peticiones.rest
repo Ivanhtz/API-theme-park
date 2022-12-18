@@ -6,6 +6,12 @@ GET http://localhost:3000/api/parks
 
 ###
 
+// Parque por Id
+GET http://localhost:3000/api/parks/639c67e15d31e508766ed4bb
+
+
+###
+
 // CASAS
 
 // Dame todas las casas
@@ -13,7 +19,17 @@ GET http://localhost:3000/api/houses
 
 ###
 
+// casa por id
+GET http://localhost:3000/api/houses/639d877d9e804b988a79d418
+
+###
+
 // MONTAÑAS
 
 // Dame todas las montañas
 GET http://localhost:3000/api/rollers
+
+###
+
+// montaña por id
+GET http://localhost:3000/api/rollers/639d8a719e804b988a79d43a
